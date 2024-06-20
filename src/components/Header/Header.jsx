@@ -73,7 +73,7 @@ const Header = () => {
                   <Link to="/home" className=" d-flex align-items-center gap-2">
                     <i class="ri-car-line"></i>
                     <span>
-                      OneStop<br /> Shop
+                      ZedAutos<br /> Shop
                     </span>
                   </Link>
                 </h1>
@@ -86,8 +86,8 @@ const Header = () => {
                   <i class="ri-earth-line"></i>
                 </span>
                 <div className="header__location-content">
-                  <h4>Nyeri</h4>
-                  <h6>Nyeri, Kenya</h6>
+                  <h4>Nairobi</h4>
+                  <h6>Nairobi, Kenya</h6>
                 </div>
               </div>
             </Col>
